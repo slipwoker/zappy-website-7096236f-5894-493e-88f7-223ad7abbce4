@@ -1,0 +1,57 @@
+# בשבילך - ייעוץ וליווי בקריירה — Generative Engine Optimization Map
+
+> A שירותי ייעוץ מקצועי business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-7096236f.zappy5.app
+גלה ייעוץ קריירה מקצועי שמביא תוצאות אמיתיות. צור קשר עוד היום לייעוץ ראשוני חינם!
+
+### שירותים
+https://-7096236f.zappy5.app/services
+גלה את מגוון שירותי ייעוץ הקריירה המקצועיים שלנו - ייעוץ אישי, ליווי בשינוי קריירה, סדנאות ועוד. התאמה אישית לכל לקוח!
+
+### אודות
+https://-7096236f.zappy5.app/about
+הכירו את הצוות המקצועי מאחורי בשבילך. שנים של ניסיון בייעוץ קריירה וליווי מאות לקוחות להצלחה מקצועית.
+
+### צור קשר
+https://-7096236f.zappy5.app/contact
+צור קשר עם מומחי ייעוץ הקריירה שלנו. שיחת ייעוץ ראשונית חינם. נשמח לעזור לך למצוא את הדרך המקצועית הנכונה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7096236f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7096236f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7096236f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בשבילך - ייעוץ וליווי בקריירה
+בשבילך - ייעוץ וליווי בקריירה is a business in the שירותי ייעוץ מקצועי industry.
+
+## Target Audience
+אנשים המחפשים ייעוץ קריירה
+
+## Industry
+שירותי ייעוץ מקצועי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7096236f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7096236f.zappy5.app/robots.txt
